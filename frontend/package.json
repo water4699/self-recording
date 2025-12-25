@@ -22,7 +22,7 @@
     "clsx": "^2.1.1",
     "ethers": "^6.15.0",
     "idb": "^8.0.3",
-    "next": "latest",
+    "next": "^16.0.7",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "tailwind-merge": "^3.3.1",
